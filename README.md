@@ -6,26 +6,26 @@
 
 ---
 
-## 🔧 Tech Stack & Expertise
+##  Tech Stack & Expertise
 
-### 🧪 Testing
+###  Testing
 - API Testing: Rest Assured, Postman
 - Automation: Java, TestNG, Selenium
 - Modern Automation: Playwright + TypeScript (Learning & Building)
 
-### 📊 Data Validation
+###  Data Validation
 - SQL  
 - Snowflake  
 - Metabase
 
-### 🔗 Integrations
+###  Integrations
 - Salesforce  
 - Zendesk  
 - SFTP  
 - Zoom  
 - Talkdesk
 
-### ⚙️ DevOps & Strategy
+###  DevOps & Strategy
 - Jenkins CI/CD
 - End-to-End Workflow Validation
 - Test Strategy Design
