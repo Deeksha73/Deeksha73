@@ -1,16 +1,33 @@
-Hi 👋 I’m Deeksha Singh
+# Hi 👋 I'm Deeksha Singh
 
-Senior QA Engineer | SDET | Automation Enthusiast
+### Senior QA Engineer | SDET | Automation Enthusiast
 
-I build tools and automation frameworks that validate real production data pipelines — not just UI tests.
+> I build tools and automation frameworks that validate real production data pipelines.
 
-⸻
+---
 
-🔧 What I Work With
-	•	API Testing — Rest Assured, Postman
-	•	Automation — Java, TestNG, Selenium
-	•	Modern Automation — Playwright + TypeScript (Learning & Building)
-	•	Data Validation — SQL, Snowflake, Metabase
-	•	Integrations — Salesforce, Zendesk, SFTP, Zoom, Talkdesk
-	•	CI/CD — Jenkins
-	•	Test Strategy — End-to-End workflow validation
+## 🔧 Tech Stack & Expertise
+
+### 🧪 Testing
+- API Testing: Rest Assured, Postman
+- Automation: Java, TestNG, Selenium
+- Modern Automation: Playwright + TypeScript (Learning & Building)
+
+### 📊 Data Validation
+- SQL  
+- Snowflake  
+- Metabase
+
+### 🔗 Integrations
+- Salesforce  
+- Zendesk  
+- SFTP  
+- Zoom  
+- Talkdesk
+
+### ⚙️ DevOps & Strategy
+- Jenkins CI/CD
+- End-to-End Workflow Validation
+- Test Strategy Design
+
+---
