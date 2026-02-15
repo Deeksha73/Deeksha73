@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi 👋 I’m Deeksha Singh
 
-<!--
-**Deeksha73/Deeksha73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior QA Engineer | SDET | Automation Enthusiast
 
-Here are some ideas to get you started:
+I build tools and automation frameworks that validate real production data pipelines — not just UI tests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+🔧 What I Work With
+	•	API Testing — Rest Assured, Postman
+	•	Automation — Java, TestNG, Selenium
+	•	Modern Automation — Playwright + TypeScript (Learning & Building)
+	•	Data Validation — SQL, Snowflake, Metabase
+	•	Integrations — Salesforce, Zendesk, SFTP, Zoom, Talkdesk
+	•	CI/CD — Jenkins
+	•	Test Strategy — End-to-End workflow validation
